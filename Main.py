@@ -1,14 +1,11 @@
+import sys
 import time
 import math
+from queue import Queue
+from PIL import Image
 import RPi.GPIO as GPIO
 from PCA9685 import PCA9685
 from picamera import PiCamera
-from time import sleep
-
-import sys
-import time
-from queue import Queue
-from PIL import Image
 
 # -m pip install imageio --user
 import imageio
