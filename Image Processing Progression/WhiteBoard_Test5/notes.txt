@@ -1,0 +1,9 @@
+Change:
+	I added checks for diagonal positions because it wasnt actually finding
+	the shortest path before.
+
+Result:
+	It works exacly as intended.
+
+Problem:
+	none.

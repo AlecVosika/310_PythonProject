@@ -1,0 +1,10 @@
+Change:
+	I check for white before I check for black and I changed
+	the value for white from anything greater than 225 to 200
+
+Result:
+	It worked much better and was actually able to give me an answer
+
+Problem:
+	1. Some sections of the black lines were converted to white.
+	2. The end point was not correct due to the unwanted red pixels everywhere.

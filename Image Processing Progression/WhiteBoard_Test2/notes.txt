@@ -1,0 +1,4 @@
+In this test, I downscaled the converted image in hopes that it would reduce
+the variety of colors. 
+
+I beleive the next step is to change my color ranges.

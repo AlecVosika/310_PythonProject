@@ -1,0 +1,11 @@
+Change:
+	I changed the white value to be checking for anything 170.
+
+Result:
+	It works exacly as intended except except for the black lines.
+
+Problem:
+	1. Some sections of the black lines were converted to white.
+
+Possible Solution:
+	When drawing the puzzle, make the lines more thick.
